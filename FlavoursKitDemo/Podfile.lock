@@ -1,0 +1,16 @@
+PODS:
+  - FlavoursKit (0.0.1)
+
+DEPENDENCIES:
+  - FlavoursKit (from `../`)
+
+EXTERNAL SOURCES:
+  FlavoursKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlavoursKit: 79434d13fd7f469b0191813683f1ad9353179517
+
+PODFILE CHECKSUM: e9ddd78439c37e5a93c1ed853d5598569997382d
+
+COCOAPODS: 1.10.1
